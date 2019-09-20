@@ -1,2 +1,0 @@
-# avmc-university
-# first commit
